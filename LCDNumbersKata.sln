@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCDNubmersKata", "LCDNubmersKata\LCDNubmersKata.csproj", "{499B91E8-1F3F-45FF-8661-1086D2E317B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCDNumbersKata", "LCDNumbersKata\LCDNumbersKata.csproj", "{499B91E8-1F3F-45FF-8661-1086D2E317B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
